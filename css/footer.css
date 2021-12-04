@@ -1,0 +1,132 @@
+
+/*-- main --*/
+.footerMain{
+	padding:10px 0 0 0;
+	background-color: black;
+}
+.footerMain .social ul li{
+	padding: 13px;
+	background-color:#0B810B;
+	border-radius: 16px;
+}
+.footerMain .social ul li:hover{
+	opacity: 0.8;
+}
+.footerMain .social ul li a{
+	color: white;
+
+}
+.footerMain .contact ul li a span{
+	color: white;
+
+}
+.footerMain .contact ul li:hover{
+	opacity: 0.8;
+}
+.footerMain .contact ul li i{
+	color: #0B810B;
+}
+.footerMain h1{
+	font-family: 'Viga', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+.content{
+    margin: 0 auto;
+}
+.footer-grids{
+    padding: 3em 3em;
+}
+p.footer-gd {
+    color: #908F8F;
+    font-weight: 500;
+	font-size:14px;
+}
+p.footer-gd a {
+	color:#fff;
+}
+p.footer-gd a:hover {
+	color: #2e99ff;
+}
+.footer{
+	float:left;
+}
+.footer h3{
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 32px;
+    font-family: 'Viga', sans-serif;
+}
+.footer.one {
+    width: 37%;
+}
+p.adam{
+	float:right;
+	color:#6F6E6E !important;
+	font-size:13px !important;
+	margin-top:20px;
+}
+.footer.three {
+    width: 23%;
+}
+.footer.one p{
+	color:#908F8F;
+	line-height:2em;
+	font-size:14px;
+}
+.footer.two {
+    width: 23%;
+    margin: 0 8%;
+}
+.footer.two ul{
+	margin:0;
+	padding:0;
+}
+.footer.two ul li{
+	list-style-type:none;
+	display:block;
+    line-height: 1.5em;
+	font-size:14px;
+}
+.footer.two ul li a{
+color:#908F8F;	
+display:block;
+}
+.footer.three ul li {
+    list-style-type: none;
+    display: block;
+    color: #908F8F;
+    font-size: 14px;
+    line-height: 2.5em;
+}
+.footer.three ul li span {
+    display: block;
+}
+.copy-right-grids {
+	padding: 20px 20px;
+    background: #211E1E;
+}
+.copy-left{
+	float:left;
+}
+.copy-right{
+	float:right;
+}
+.copy-right ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 0px;
+    border-left: 1px solid #444343;
+    padding: 0 12px;
+}
+.copy-right ul li a {
+    color: #908F8F;
+	font-size:13px;
+}
+.copy-right ul li:nth-child(1) {
+    border: none;
+}
